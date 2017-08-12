@@ -1,2 +1,3 @@
-# Plano-Senior-NHS
-Edelweiss Chapter
+#Plano Senior High School NHS Site
+
+#J.Yang + S.Berana + Bootstrap
