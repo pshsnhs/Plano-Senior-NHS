@@ -109,7 +109,7 @@ hr {
 
 .brand-name {
     margin: 0px;
-    font-size: 4em;
+    font-size: 3em;
 }
 
 .tagline-divider {
@@ -256,6 +256,10 @@ hr {
 .intro-img {
   display: inline-block;
   vertical-align: middle;
+}
+
+.intropic {
+
 }
 
 .img-border {
